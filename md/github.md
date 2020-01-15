@@ -13,4 +13,7 @@ git add --all
 git commit -m "initial commit"
 hub create
 git push -u origin master
+hub see
 ```
+
+[hubでGithubをちょっと便利に。 \- Qiita](https://qiita.com/ken0nek/items/ce50c6e5b59867c19f79)
